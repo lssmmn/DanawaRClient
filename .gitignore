@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userprefs
+
+# NuGet Packages
+packages/
+*.nupkg
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Bb]in/
+[Oo]bj/
